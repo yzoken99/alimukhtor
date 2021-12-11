@@ -1,4 +1,4 @@
-### Hi 👋🏽 I'am Ali , a FullStack Developer at Strive School ![gif from nerdy.dev](https://github.com/alimukhtor/alimukhtor/blob/master/argyleink-sm2.gif?raw=true)
+### Hi 👋🏽 I'am Ali , a FullStack Developer 🚀  at Strive School ![gif from nerdy.dev](https://github.com/alimukhtor/alimukhtor/blob/master/alimukhtor-sm2.gif?raw=true)
 
 
 
