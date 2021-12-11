@@ -3,11 +3,10 @@
 
 Talking about Personal Stuffs:
 
-- 🔭 I’m currently working as a Courier and delivering foods to customer
+- 🔭 I’m currently working as a Courier to deliver foods to customer and spending weekdays with all day Coding
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: james1999007@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Humor Level 100000000000000000000000000...
-
+- ⚡ Fun fact: I code to make life easier :)
