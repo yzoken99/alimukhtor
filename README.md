@@ -3,7 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on as a Courier and delivering foods to customer
+- 🔭 I’m currently working as a Courier and delivering foods to customer
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
