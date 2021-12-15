@@ -1,4 +1,4 @@
-### Hi 👋🏽 I'am Ali , a FullStack Developer 🚀  at Strive School 
+### Hi 👋🏽 I'am Ali , a Aspiring FullStack Developer 🚀
 
 
 Talking about Personal Stuffs:
