@@ -10,5 +10,5 @@ Talking about Personal Stuffs:
 - 📫 How to reach me: james1999007@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code to make life easier :)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimukhtor&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimukhtor &bg_color=0d1922&color=1c6885&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
