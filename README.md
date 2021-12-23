@@ -11,4 +11,4 @@ Talking about Personal Stuffs:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code to make life easier :)
 - 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimukhtor 
+https://activity-graph.herokuapp.com/graph?username=alimukhtor
