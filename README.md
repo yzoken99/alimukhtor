@@ -11,7 +11,7 @@ Talking about Personal Stuffs:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimukhtor&bg_color=0d1117&color=4aa6df&line=4aa6df&point=e3f2fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/>
-- 🌱 Programming languages I code with :)
+- 🌱  I use Javascript, ReactJs, Redux, NodeJs, ExpressJs, PostgreSQL, MongoDb
  <br/>
 <div className=""inline-block>
 <img className="img-fluid" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60" height="45"/>
@@ -20,4 +20,5 @@ Talking about Personal Stuffs:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="60" height="45"/>
 <img className="ml-3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWp7pd1Qt0VYxUZY5tqPMemwjZN5DVMFkLWQ&usqp=CAU" width="55" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LSqXMcOtsnyPHUjK831-94f2yC08LI5zlQ&usqp=CAU" width="55" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkn4DVgk4EVNiy0_JKDI3v-vcjA-WnebNFnA&usqp=CAU" width="55" height="40"/>
 </div>
