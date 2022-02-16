@@ -11,5 +11,5 @@ Talking about Personal Stuffs:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alimukhtor&bg_color=0d1117&color=4aa6df&line=4aa6df&point=e3f2fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWp7BIy0sDVzih4LCpP1wjiT46GTfr2EiAA&usqp=CAU" width="100" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWp7BIy0sDVzih4LCpP1wjiT46GTfr2EiAA&usqp=CAU" width="100" height="70"/>
 
