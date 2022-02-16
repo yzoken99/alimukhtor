@@ -12,4 +12,5 @@ Talking about Personal Stuffs:
 
 <hr/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wh_vrysQFY_0CkcD-e-lYPPHLvsTaXqIGA&usqp=CAU" width="100" height="70"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8wh_vrysQFY_0CkcD-e-lYPPHLvsTaXqIGA&usqp=CAU" width="100" height="70"/>
 
