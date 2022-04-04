@@ -4,7 +4,7 @@
 Talking about Personal Stuffs:
 
 - 🌱 I’m currently focusing on and learning Web Development
-- 🤔 I’m looking for help with Algorithms 😭
+- 🤔 I’m looking for help with Algorithms
 - 💬 Ask me about anything, I am happy to answer
 - 📫 How to reach me: izzatillomukhtorov@gmail.com
 - ⚡ Fun fact: I code to make life easier :)
