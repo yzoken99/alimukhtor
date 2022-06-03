@@ -3,8 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- 🌱 I’m currently focusing on and learning Web Development
-- 🤔 I’m looking for help with Algorithms
+- 🌱 I’m currently working for YDISTRI company as a Ract Developer
 - 💬 Ask me about anything, I am happy to answer
 - 📫 How to reach me: izzatillomukhtorov@gmail.com
 - ⚡ Fun fact: I code to make life easier :)
@@ -20,7 +19,6 @@ Talking about Personal Stuffs:
 <img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimukhtor&layout=compact&cardType=level&theme=react"/>
 
 <hr/>
-
 - 🌱  I use Javascript, ReactJs, Redux, NodeJs, ExpressJs, PostgreSQL, MongoDb
  <br/>
 <div className=""inline-block>
