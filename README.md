@@ -18,8 +18,6 @@ Talking about Personal Stuffs:
 
 <img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimukhtor&layout=compact&cardType=level&theme=react"/>
 
-<br/>
-<br/>
 - 🌱  I use Javascript, ReactJs, Redux, NodeJs, ExpressJs, PostgreSQL, MongoDb
  <br/>
 <div className=""inline-block>
