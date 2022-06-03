@@ -8,6 +8,7 @@ Talking about Personal Stuffs:
 - 💬 Ask me about anything, I am happy to answer
 - 📫 How to reach me: izzatillomukhtorov@gmail.com
 - ⚡ Fun fact: I code to make life easier :)
+<br/>
 <p align="center">
     <a href="https://github.com/alimukhtor/github-readme-streak-stats">
        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali's streak" src="http://github-readme-streak-stats.herokuapp.com?user=alimukhtor&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -19,6 +20,7 @@ Talking about Personal Stuffs:
 <img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimukhtor&layout=compact&cardType=level&theme=react"/>
 
 <hr/>
+
 - 🌱  I use Javascript, ReactJs, Redux, NodeJs, ExpressJs, PostgreSQL, MongoDb
  <br/>
 <div className=""inline-block>
