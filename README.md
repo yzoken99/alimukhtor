@@ -14,6 +14,10 @@ Talking about Personal Stuffs:
     </a>
 </p>
 
+<img align="left" width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/alimukhtor?cardType=level&theme=react"/>
+
+<img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimukhtor&layout=compact&cardType=level&theme=react"/>
+
 <hr/>
 - 🌱  I use Javascript, ReactJs, Redux, NodeJs, ExpressJs, PostgreSQL, MongoDb
  <br/>
