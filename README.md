@@ -3,7 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- 🌱 I’m currently working for YDISTRI company as a Ract Developer
+- 🌱 I’m currently working for YDISTRI company as a React Developer
 - 💬 Ask me about anything, I am happy to answer
 - 📫 How to reach me: izzatillomukhtorov@gmail.com
 - ⚡ Fun fact: I code to make life easier :)
