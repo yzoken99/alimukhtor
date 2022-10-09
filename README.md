@@ -3,7 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- 🌱 I’m currently working for YDISTRI company as a React Developer
+- 🌱 I’m currently doing Intership at Itransition company as a FullStack developer
 - 💬 Ask me about anything, I am happy to answer
 - 📫 How to reach me: izzatillomukhtorov@gmail.com
 - ⚡ Fun fact: I code to make life easier :)
