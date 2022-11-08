@@ -1,4 +1,4 @@
-### Hi 👋🏽 I'am Ali ,  Aspiring FullStack Developer 🚀
+### Hi 👋🏽 I'am Izzatillo ,  Aspiring FullStack Developer 🚀
 
 
 Talking about Personal Stuffs:
