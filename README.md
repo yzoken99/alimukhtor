@@ -10,7 +10,7 @@ Talking about Personal Stuffs:
 <br/>
 <p align="center">
     <a href="https://github.com/yzoken99/github-readme-streak-stats">
-       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ali's streak" src="http://github-readme-streak-stats.herokuapp.com?user=alimukhtor&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
+       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Izzatillo's streak" src="http://github-readme-streak-stats.herokuapp.com?user=yzoken99&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
