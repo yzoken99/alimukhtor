@@ -3,7 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- 🌱 I’m currently doing Intership at Itransition company as a FullStack developer
+- 🌱 I’m currently working on startup company at [woXrooX](https://github.com/woXrooX/woXrooX.com) as a Front End Developer
 - 💬 Ask me about anything, I am happy to answer
 - 📫 How to reach me: izzatillomukhtorov@gmail.com
 - ⚡ Fun fact: I code to make life easier :)
