@@ -3,7 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- 🌱 I’m currently working on startup company at [woXrooX](https://www.woxroox.com/team) as a Front End Developer
+- 🌱 I’m currently working on startup company at [woXrooX](https://www.woxroox.com/team) as a Software Engineer
 - 💬 Ask me about anything, I am happy to answer
 - 📫 How to reach me: izzatillomukhtorov@gmail.com
 - ⚡ Fun fact: I code to make life easier :)
