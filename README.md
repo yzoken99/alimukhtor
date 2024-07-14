@@ -1,4 +1,4 @@
-### Hi 👋🏽 I'am Izzatillo, FullStack Developer 🚀
+### Hi 👋🏽 I'am Izzatillo, Software Engineer 🚀
 
 
 Talking about Personal Stuffs:
